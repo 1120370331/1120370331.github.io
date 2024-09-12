@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://1120370331.github.io</id>
+    <title>一只海鲜的个人博客</title>
+    <updated>2024-09-12T09:37:24.853Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://1120370331.github.io"/>
+    <link rel="self" href="https://1120370331.github.io/atom.xml"/>
+    <subtitle>一只海鲜的个人博客</subtitle>
+    <logo>https://1120370331.github.io/images/avatar.png</logo>
+    <icon>https://1120370331.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, 一只海鲜的个人博客</rights>
+    <entry>
+        <title type="html"><![CDATA[开发历程]]></title>
+        <id>https://1120370331.github.io/post/kai-fa-li-cheng/</id>
+        <link href="https://1120370331.github.io/post/kai-fa-li-cheng/">
+        </link>
+        <updated>2024-09-12T08:59:49.000Z</updated>
+        <content type="html"><![CDATA[<p>在尝试WordPress遇到未知bug后，决定使用Gridea来进行博客搭建。<br>
+以后会继续优化网站。</p>
+]]></content>
+    </entry>
+</feed>
